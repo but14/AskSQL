@@ -1,3 +1,1 @@
-"# AskSQL" 
-"# AskSQL" 
-"# AskSQL" 
+Repo Ask to generate SQL
