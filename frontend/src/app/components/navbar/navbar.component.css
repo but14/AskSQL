@@ -1,0 +1,10 @@
+a {
+    font-size: 20px;
+    color: #000;
+}
+
+.navbar-brand{
+    color: palevioletred;
+    font-size: 24px;
+    font-weight: bold;
+}
