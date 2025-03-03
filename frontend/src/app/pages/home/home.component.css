@@ -1,3 +1,13 @@
 .container-fluid{
     background-color: rgb(251, 178, 233);
 }
+
+h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
